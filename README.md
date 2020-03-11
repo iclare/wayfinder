@@ -26,7 +26,7 @@ KML files can be created using Google Earth.
 * Add a `in/placemarks/a.kml` containing a rectangular placemark surrounding one of your locations.
 * Add a `in/placemarks/b.kml` containing a rectangular placemark surround your other location.
 * Add NMEA format files to `in/training/` to be used for training.
-* Add NMEA formamt files to `in/unseen/` to be used for classification.
+* Add NMEA format files to `in/unseen/` to be used for classification.
 * See *Running* to run the program.
 * Now using the files `out/training/*.raw.kml`.
   * Open each file in Google Earth and produce the kml files containing rectangular regions corresponding to a label as seen in `in/placemarks/training`
