@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+pynmea2 = "*"
+fastkml = "*"
+lxml = "*"
+scipy = "*"
+scikit-learn = "*"
+lightgbm = "*"
+tqdm = "*"
+hyperopt = "*"
+matplotlib = "*"
+geopy = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

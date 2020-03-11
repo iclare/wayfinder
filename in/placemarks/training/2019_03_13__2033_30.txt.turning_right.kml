@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>2019_03_13__2033_30.txt.to_b.turning_right</name>
+	<gx:CascadingStyle kml:id="__managed_style_25B85362C61088603509">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BFF6ED0B71088603509">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D3D75997A1088603509">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BFF6ED0B71088603509</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25B85362C61088603509</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="036396B6341088603508">
+		<name>Untitled Polygon</name>
+		<LookAt>
+			<longitude>-77.46421680072883</longitude>
+			<latitude>43.13797642622966</latitude>
+			<altitude>148.0917386121485</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>334.1714985932413</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D3D75997A1088603509</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.46393327482464,43.13756884692359,148.2462824026835 -77.46379190479253,43.13755888778196,148.5553469589361 -77.46379177639385,43.13761872377602,148.4546423296409 -77.46393043930864,43.13762057022473,148.2462775971229 -77.46393327482464,43.13756884692359,148.2462824026835 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="081DBECA721088607EEE">
+		<name>Untitled Polygon</name>
+		<LookAt>
+			<longitude>-77.46393187340769</longitude>
+			<latitude>43.13747884679375</latitude>
+			<altitude>148.3017023726786</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>153.6884826602909</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D3D75997A1088603509</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.46393187342295,43.13741023897843,148.2415291501132 -77.46380148672075,43.13740843913357,148.473322689595 -77.46379887880668,43.13747123502115,148.4733197188334 -77.46392926293881,43.13747503708958,148.3144837435927 -77.46393187342295,43.13741023897843,148.2415291501132 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="004BF76AEB108860D5DB">
+		<name>Untitled Polygon</name>
+		<LookAt>
+			<longitude>-77.44741282503395</longitude>
+			<latitude>43.1305656798506</latitude>
+			<altitude>149.2367849711097</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>361.4000092363131</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D3D75997A1088603509</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.44713649110588,43.13059480943819,148.8689726613358 -77.44693727961821,43.13058806943751,149.1427970711905 -77.44693691318437,43.13066651343798,148.8644628103396 -77.4471366024092,43.13067095240967,149.0129498841968 -77.44713649110588,43.13059480943819,148.8689726613358 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0921687C881088615392">
+		<name>Untitled Polygon</name>
+		<LookAt>
+			<longitude>-77.44708199525063</longitude>
+			<latitude>43.1306441154047</latitude>
+			<altitude>149.1683357937036</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>163.5079855266486</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D3D75997A1088603509</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.44684531585523,43.13064817931945,148.7263225993576 -77.44665770899283,43.13064005377461,148.8596749483963 -77.44664626587942,43.13070303990162,148.7413176460371 -77.4467925184145,43.13070607079106,148.7874971666453 -77.44684531585523,43.13064817931945,148.7263225993576 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B0860AF44108861B911">
+		<name>Untitled Polygon</name>
+		<LookAt>
+			<longitude>-77.44091659161059</longitude>
+			<latitude>43.14103348198722</latitude>
+			<altitude>154.9462718339254</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>280.6608650441559</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D3D75997A1088603509</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.44093565818658,43.14101956961565,154.8819050333063 -77.44065389652167,43.14100385817841,154.313309540225 -77.4406305931833,43.14108565285914,154.8819908218291 -77.44085227907001,43.14111864575825,155.0445847200026 -77.44093565818658,43.14101956961565,154.8819050333063 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="049B7B45AC108861FA95">
+		<name>Untitled Polygon</name>
+		<LookAt>
+			<longitude>-77.43954289884108</longitude>
+			<latitude>43.14095519149039</latitude>
+			<altitude>157.4414745829905</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>100.7512976857652</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0D3D75997A1088603509</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-77.43948659096839,43.14090040956935,157.8168864844008 -77.43937632918575,43.14089535549456,157.6925720707576 -77.4393969918021,43.14094585241672,157.8042340445417 -77.4394848124243,43.14095768468324,157.6916404498108 -77.43948659096839,43.14090040956935,157.8168864844008 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
